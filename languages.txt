@@ -4,5 +4,4 @@ kotlin
 scala
 ruby
 javascript
-test
 rust
